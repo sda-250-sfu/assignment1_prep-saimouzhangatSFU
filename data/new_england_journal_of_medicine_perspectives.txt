@@ -1,0 +1,651 @@
+
+
+A Half - Century of Progress in Health: The National Academy of Medicine at 50
+
+Vaccine Innovations — Past and Future
+
+Vaccination is a powerful method of disease
+prevention that is relevant to people of all
+ages and in all countries, as the Covid-19
+pandemic illustrates. Vaccination can improve people’s chances of survival, protect
+communities from new and reemerging health threats, and enhance societal productivity. But
+achieving the promise of vaccination requires much more than
+the vaccines themselves. It requires appropriate incentives to
+encourage the timely discovery
+and development of innovative,
+effective, safe, and affordable
+products; effective financing and
+delivery programs; and credible
+scientific leaders who can provide evidence-based policy recommendations and reassure the public about the value of the vaccines.
+Since its inception 50 years ago,
+the National Academy of Medicine (NAM), previously known as
+the Institute of Medicine (IOM),
+has been an authoritative resource
+on medical issues, including vaccination, and a global leader in
+vaccine-policy development.
+It’s hard to overstate the benefits that innovative vaccines deployed in the past five decades
+have had on morbidity and mortality (see timeline). The incidence of vaccine-preventable diseases among U.S. children has
+decreased dramatically, an achievement that is attributable in part
+to high vaccine-coverage rates.
+By the 2018–2019 school year,
+coverage rates among kindergarteners exceeded 90% in all but
+two states, according to data
+from the Centers for Disease Control and Prevention (CDC). Four
+vaccine-preventable illnesses have
+been eliminated from the Americas: smallpox in 1971, poliomyelitis in 1994, and rubella and
+congenital rubella syndrome in 2015 (one of us is an executive
+vice president at Merck, which
+produces vaccines for rubella,
+among other vaccines). Moreover,
+between 2011 and 2020, immunization programs in low-income
+countries saved an estimated
+23.3 million lives.
+Perhaps the most notable
+immunization-related accomplishment during the past half century was the eradication of smallpox, which was verified by the
+World Health Organization (WHO)
+in 1980. In addition, global cases
+of paralytic polio have decreased
+by 99.95% from the estimated
+350,000 cases in 1988, when the
+global polio-eradication program
+was announced, and two of the
+three wild-type polioviruses, WPV
+types 2 and 3, have been eradicated.
+Other important achievements
+during this period include the
+1986 approval of the first vaccine
+based on recombinant technology, a hepatitis B vaccine that
+not only has reduced rates of the infection in many countries but
+was also the first vaccine to reduce cancer risk. In 1987, the
+first polysaccharide-protein conjugate vaccine was licensed; since
+then, the incidence of invasive
+Haemophilus inf luenzae type b disease among children has fallen
+394 dramatically. In 2009, a vaccine
+for Neisseria meningitidis group A
+became the first licensed vaccine
+specifically designed for certain
+people in low-income countries.
+Achieving broad population
+health benefits associated with
+vaccination requires effective policies that create incentives for vaccine development, ensure financing of vaccines, and improve
+access. After a measles outbreak
+in 1989–1991, the U.S. Vaccines
+for Children Program was authorized in 1993 to ensure that eligible children would have free access to all CDC-recommended
+vaccines. To address remaining
+gaps, the IOM in 2000 issued a
+landmark report that recommended policy and programmatic
+improvements to strengthen U.S.
+immunization programs. One outcome of this effort was the requirement included in the 2010
+Affordable Care Act that plans
+provide first-dollar coverage (coverage without copayments or other
+cost sharing) for vaccines recommended by the CDC’s Advisory
+Committee on Immunization Practices for children and adults up to
+age 26.
+Policy advances have also enhanced the effects of vaccination
+globally. The WHO launched the
+Expanded Program on Immunization in 1974 to increase access
+to vaccines. Beginning in 2000,
+the benefits of this program were
+greatly enhanced by the creation
+of Gavi, the Vaccine Alliance, an
+international public–private partnership that provides financial
+and programmatic support to ensure that children in the poorest
+countries have access to vaccines.
+In 2017, with the support of the
+NAM and other organizations,
+this model was used as a framework for the creation of the Coalition for Epidemic Preparedness
+Innovations to fund innovative
+vaccines and other countermeasures against pathogens that cause
+devastating public health consequences, such as the Ebola virus
+and now SARS-CoV-2.
+Because vaccines are usually
+administered to healthy people,
+maintaining the highest safety
+standards isn’t only an ethical
+imperative but is also essential to
+sustaining public trust. The story
+of vaccine progress has been punctuated by both real and misguided safety concerns for as long as
+vaccines have been in use. Such
+concerns have included adverse
+events associated with vaccination itself, quality lapses in the
+manufacturing process, and false
+alarms regarding vaccine safety.
+The potential for financial gain
+has fueled liability suits related
+to putative safety concerns. The
+NAM has conducted ongoing objective assessments of vaccine
+safety to help address concerns.
+Between 2000 and 2004, its Immunization Safety Review Committee evaluated evidence pertinent to various vaccine-safety
+topics and set a new standard for
+independent scientific review that
+remains relevant as the NAM contributes to coronavirus-related
+policies.
+Vaccine confidence depends on
+trust in the safety and efficacy of
+the products themselves, trust in
+vaccine manufacturers and the
+clinicians who administer vaccines, and trust in policymakers
+who assess the scientific evidence
+and promulgate vaccination recommendations. Failures in any of
+these areas can have substantial
+long-term public health consequences, as was the case with
+misinformation about measles
+vaccines. Enduring mistrust stemming from a discredited study
+that associated childhood vaccination with autism has been
+linked to recent outbreaks of measles in the United States.
+Sustaining both vaccine safety
+and trust in vaccination will become increasingly complex. Vaccines continue to be approved,
+and more vaccines have become
+accessible in resource-limited
+countries, but safety surveillance
+systems are less evolved in many
+low-income regions than in highincome regions. Similarly, vaccines are being manufactured in
+regions where regulatory oversight isn’t always optimal, and
+counterfeit vaccines remain a
+threat. Emerging infections may
+require rapid availability of new
+vaccines before comprehensive
+safety studies are complete. Perhaps most important, the speed
+and reach of communication on
+social media platforms have created unprecedented opportunities
+for users to amplify misinformation and flame the fears of parents and other stakeholders in the
+immunization ecosystem.
+Moving forward, vaccines
+against a range of infectious
+agents will need to be developed.
+New and reemerging pathogens,
+such as SARS-CoV-2 and new influenza strains, regularly appear.
+Viruses that are capable of spreading by vector or airborne routes
+— one of the most important
+pandemic threats — continue to
+emerge. More than 1.5 million as
+yet unknown viruses are estimated to exist in animals worldwide,
+and 38 to 50% of them are candidates to spread to humans.
+Global-surveillance and virusdiscovery programs are therefore
+important, and they may be able
+to predict pandemics. In 2011,
+the IOM commissioned the development of a strategic multiattribute ranking tool for vaccines
+to facilitate evaluation of new
+vaccine targets and help guide
+decisions about prioritizing vaccine-development efforts.
+When pandemics emerge, rapid
+responses are necessary. Vaccines
+aren’t the only available tool:
+passive administration of antibodies for prevention or treatment of infectious diseases has
+been used for many years. The
+Pandemic Prevention Platform program of the Defense Advanced
+Research Projects Agency aims
+to develop a new form of passive
+antibody protection that can slow
+viral epidemics starting within
+60 days after identification of the
+pathogen and until a vaccine can
+be made. Thanks to new technology, the vaccine-development process is also being condensed.
+Experimental vaccines were developed and ready for phase 1
+clinical trials in 20 months for
+SARS after the epidemic began in
+2003 and in slightly more than
+3 months for Zika virus in 2016.
+The response to the Covid-19
+pandemic is a prime example of
+how rapidly new vaccines can
+now be designed. By the time the
+WHO declared Covid-19 a pandemic on March 11, 2020, at least
+37 groups from biotechnology
+companies and academic institutions were working on vaccine
+candidates. These candidates include live attenuated, inactivated,
+DNA, messenger RNA, viral vector, and spike-protein–based vaccines. Less than 1 year later, the
+first Covid-19 vaccine-efficacy
+trials have now been completed,
+and the first vaccines are authorized for emergency use.
+Many approved vaccines, such
+as those against measles and
+polio, were made using attenuated or killed versions
+An audio interview
+of the virus without
+with Dr. Gerberding
+detailed knowledge
+is available at NEJM.org
+of viral pathogenesis.
+In contrast, current strategies for
+vaccine design rely on new technologies that lead to a deeper
+understanding of the immune
+system and of host–pathogen interactions. For new experimental
+HIV and respiratory syncytial virus (RSV) vaccines, a detailed
+structural understanding of antibody interactions with the HIV
+envelope or the RSV prefusion
+form of the fusion (F) protein is
+needed.
+Vaccines remain the most effective tool for preventing infectious diseases and improving
+global health. Remarkable progress has been made with the use
+of vaccines, including the eradication of smallpox and the control of childhood diseases such
+as measles, mumps, rubella,
+and polio. New insights into the
+functioning of the immune system on a cellular and molecular
+level have made possible the rapid development of new vaccines.
+Difficulties facing vaccinologists
+include predicting the type and
+timing of the next pandemic; developing vaccines to combat rapidly changing pathogens such as
+HIV-1, influenza, and multidrugresistant bacteria; and establishing rapid-response strategies to
+control emerging and reemerging
+infectious diseases. The future
+holds great promise for vaccinemediated control of global pathogens, but providing affordable access to effective vaccines for
+everyone who could benefit from
+them remains an important challenge.
+
+
+
+
+
+Placebo-Controlled Trials of Covid-19 Vaccines —
+Why We Still Need Them
+WHO Ad Hoc Expert Group on the Next Steps for Covid-19 Vaccine Evaluation​​
+Placebo-Controlled Trials of Covid-19 Vaccines
+
+Recent announcements that some Covid-19
+vaccines are estimated to have high short-term
+efficacy provide new hope that vaccination
+will soon contribute to controlling the pandemic.
+The initial roll-out of limited
+quantities of vaccines that are still
+investigational will provide the
+opportunity to ethically obtain pivotal data to improve regulatory
+and public health decision making, thereby increasing public and
+professional confidence in these
+and other vaccines.
+After relatively short follow-up
+in phase 3 trials, even when vaccine efficacy appears to be high,
+reliable information will still be
+needed on longer-term safety and
+duration of protection. Other information gaps will include
+more comprehensive assessments
+of short-term safety, knowledge
+of whether waning of vaccineinduced protection may lead to
+vaccine-enhanced disease if a
+vaccinee becomes infected on exposure to SARS-CoV-2, information on protection against clinically severe forms of Covid-19,
+and knowledge of any associations between the degree of protection and the recipient’s age or
+coexisting conditions. Even after
+the first vaccines become available, it will still be important to
+evaluate additional vaccines to
+meet worldwide needs.
+On November 6, 2020, we, as
+participants in a World Health
+Organization (WHO) ad hoc consultation on the next steps for
+Covid-19 vaccine evaluation, discussed what critical additional
+data should be sought to inform
+regulatory and policy recommendations for the first successful
+vaccines and subsequent optimization. Consensus emerged that
+while it is still feasible and ethical,
+ongoing studies and others that
+are about to start should continue
+to collect high-quality information
+using directly randomized comparisons against placebo to address as many of the data requirements as possible. While vaccine
+supplies are limited, available vaccines are still investigational, or
+public health recommendations to
+use those vaccines have not been
+made, we believe it is ethically
+appropriate to continue blinded
+follow-up of placebo recipients in
+existing trials and to randomly
+assign new participants to vaccine
+or placebo. Moreover, under these
+conditions, we believe that trial
+sponsors are not ethically obligated to unblind treatment assignments for participants who desire
+to obtain a different investigational vaccine. People who enroll
+in clinical trials for altruistic reasons would probably understand
+the value of gathering data that
+will further elucidate the safety
+and efficacy of these vaccines and
+their appropriate use.
+Conversely, there was concern
+that observational data obtained
+from nonrandomized studies after vaccine deployment could yield
+unreliable answers. Observational
+studies are subject to substantial
+biases and are much less amenable to unambiguous interpretation. Their limitations are of particular concern during this public
+health emergency, because vaccinated and unvaccinated people
+will differ in their risk of exposure
+to infection and of serious disease, partly because of fluctuating
+attack rates and because during
+early phases of vaccine deployment, vaccinees may well be at
+particular risk of infection. In
+these circumstances, even carefully analyzed observational studies can yield misleading answers
+about safety and efficacy. In addition, unrelated events that occur
+by chance after vaccination may be
+incorrectly attributed to the vaccine, and such anecdotes may be
+deliberately promulgated by groups
+opposed to vaccination.
+Large,
+placebo-controlled,
+phase 3 efficacy trials could provide much of the needed information if they have appropriately
+prolonged follow-up while random
+assignments are still blinded.
+Such continuation would yield unbiased evidence on the duration
+of protection and on longer-term
+safety, including assessment of any
+evidence of the vaccine eventually
+enhancing the risk of severe disease (as was recently detected by
+continued follow-up of placebo
+recipients in dengue vaccine studies). If there are hazards, they
+need to be identified; conversely,
+longer follow-up might reassuringly demonstrate continued protection with few or no adverse
+consequences, reducing vaccine
+hesitancy.
+This opportunity to obtain reliable evidence about longer-term
+effects would be destroyed by early unblinding and immediate vaccination of participants assigned
+to placebo. Although each participant has the option to pursue
+any available intervention, if substantial numbers of participants
+choose not to do so, continuation
+of blinded follow-up in a population in which no licensed vaccine
+is being deployed could yield important and unexpected findings
+that would be difficult to obtain
+reliably any other way.
+Thus, early deployment of
+scarce doses of still-investigational
+vaccines (under Emergency Use
+Listing [EUL] or similar regulatory mechanisms) could bring additional public health benefits if
+accompanied by firm commitments to maintaining blinded follow-up of participants in ongoing
+or future placebo-controlled trials
+until a licensed vaccine is fully deployed in the population. In some
+settings, early deployment could
+instead use the Expanded Access/
+Compassionate Use (EA/CU)
+mechanism, under which recipients are unambiguously informed
+of the vaccine’s investigational nature. For example, under trying
+conditions, the WHO deployed an
+Ebola vaccine under EA/CU during the recent outbreak in the
+Democratic Republic of Congo,
+ensuring that hundreds of thousands of prioritized persons received an investigational vaccine
+that was in limited supply.
+Because hundreds of millions
+of people in some priority groups
+will eventually be vaccinated
+against Covid-19, the world needs
+highly reliable evidence of vaccine safety that can be straightforwardly and convincingly explained to the public. Indeed, the
+ultimate impact of Covid-19 vaccines in a population may depend more on the prevalence of
+hesitancy or strong disinclination
+to receive a Covid-19 vaccine than
+on whether the vaccine has 95%,
+80%, or 70% efficacy. Current
+phase 3 studies typically provide
+controlled data on about 20,000
+vaccine recipients and 20,000 placebo recipients. Although these
+numbers should suffice for detecting relatively common adverse
+events, there is a risk of missing
+or exaggerating less common but
+clinically important events. Because large numbers of people
+will rapidly be vaccinated, vaccination will inevitably seem to be
+temporally associated with some
+uncommon adverse events. A
+large, simple trial to evaluate serious safety outcomes, in which
+many participants (even hundreds
+of thousands) are randomly assigned to vaccine or placebo and
+those who receive placebo are
+vaccinated only about 2 months
+later could identify any rare but
+serious short-term side effects or
+show that there were none. Such
+a trial could be conducted either
+during a period of emergency use
+or immediately after licensure and
+could be viewed as a fair way of
+allocating initially limited vaccine supplies.
+What about vaccine candidates
+that do not become available for
+phase 3 study until after effective
+vaccines have already been deployed in some locations? Additional vaccines with worthwhile
+efficacy would still be desirable,
+especially if they could be readily
+deployed on a large scale or if
+safety concerns emerge with the
+first vaccines. For example, a 70%
+effective single-dose vaccine may
+be more valuable than a two-dose
+regimen with 90% efficacy and
+greater implementation challenges. It is noteworthy that such a
+vaccine could not be identified
+without using placebo controls.
+Participants in trials of such vaccines should have access to the
+standard of care in their location and, if the trial is successful, their communities should
+share in the benefit. Countries
+with limited or no access to a
+known effective vaccine could thus
+ethically permit placebo-controlled
+trials of vaccines of potential relevance to them even if effective
+vaccines were already being marketed elsewhere.
+Randomized,
+placebo-controlled trials are the bedrock of
+modern clinical decision making
+and remain the most efficient way
+to obtain reliable results. If successful, focused attempts to ascertain correlates of protection
+could materially accelerate acceptance of second-generation vaccines but alone cannot provide an
+adequate basis for assessing safety and efficacy. Early clinical trial
+results may offer promise, but they
+cannot provide all the reliable data
+required. Randomized, noninferiority trials can provide clinically relevant data in some cases, but
+at a considerable cost to efficiency.
+We can address important
+needs with continued follow-up
+of placebo recipients in phase 3
+trials, use of placebo controls in
+large, simple safety trials, and
+
+clinical data from placebo-controlled, randomized trials evaluating new vaccines. A concerted
+global effort to collect such data
+while it’s still possible would increase the likelihood of reliably
+identifying multiple vaccines with
+favorable benefit–risk profiles.
+These studies would go far toward
+earning the broad public confidence required for widespread
+vaccine acceptance so that we can
+bring this pandemic to an end.
+
+
+
+Testing in a Pandemic — Improving Access, Coordination,
+and Prioritization
+
+The moment a new lethal virus begins spreading in human populations, public health authorities and the communities they serve enter a race against time to prevent a major outbreak.
+
+Success depends on tracking viral
+spread rapidly from its early stages
+to identify people who are infected
+and protect those who aren’t.
+With SARS-CoV-2, the United
+States lost that race. Nearly a year
+into the U.S. outbreak, the national case count exceeds 20 million. Most of the country is still
+not doing enough testing. When
+tests are performed, the organizations processing them often
+fail to achieve fast enough turnaround times (ideally, 1 to 2 days)
+to permit effective contact-tracing
+efforts. On average, Americans
+wait 4 days to receive a test result;
+10% of Americans have waited
+10 days or more. And testing is
+beset by racial disparities. Many
+people are now asking why these
+failures persist. The answer is
+twofold.
+
+First, we failed to build and
+scale up sufficient capacity for
+diagnostic tests in clinical laboratories. During the first month
+of the U.S. response, our highly
+centralized regulatory system prevented many laboratories from
+joining production efforts. Once
+a pathway was opened, leaders of
+most clinical laboratories either
+didn’t know how to navigate regulations or lacked the capacity
+and resources to produce their
+own tests. Today, only 45 of
+260,000 U.S. laboratories certified
+under the Clinical Laboratory Improvement Amendments (CLIA)
+standards have received emergency use authorizations (EUAs)
+to produce their own laboratorydeveloped tests (LDTs), and 197
+are using tests of their own that
+have been validated but have not
+yet been approved by the Food
+and Drug Administration (FDA).
+Even the FDA’s August 2020 decision to allow laboratories to establish Covid-19 LDTs without
+premarket approval failed to encourage further production by the
+vast majority of clinical microbiology laboratories, and potentially added more hurdles, given that
+liability protections under the
+Public Readiness and Emergency
+Preparedness Act disappeared in
+the absence of EUA coverage.
+A simple technological solution was available: polymerase
+chain reaction (PCR). A highly
+sensitive and specific nucleic acid
+testing technology, PCR is well
+suited for clinical testing and
+easily adaptable for new pathogens. Yet most clinical laboratories have not used it to develop
+their own tests. Instead, we became dependent on commercial
+manufacturers, creating a system
+that leads to price gouging: in
+some instances, prices of Covid
+tests have reached $2,315.
+
+Simultaneously, the federal government did not adequately use
+its power to support expansion
+of production capacity in clinical
+laboratories. The Defense Production Act (DPA) could have been
+used to fund broad, distributed
+production of tests and to forcefully check otherwise-unfettered
+capitalism. Instead, according to
+the Congressional Research Service, the Trump administration’s
+invocation of the DPA was “sporadic” and “narrow”: of the $1 billion allotted by the Coronavirus
+Aid, Relief, and Economic Security (CARES) Act for production
+of personal protective equipment
+and testing materials, $688 million was redirected to Department
+of Defense expenses.
+Second, our leadership never
+created a coherent national prioritization strategy for the distribution of limited testing capacity.
+Meanwhile, the current administration, professional sports teams,
+businesses, colleges, and others
+began testing many thousands of
+asymptomatic people — sometimes daily — often while surrounding communities struggled
+to meet basic clinical testing
+needs. Asymptomatic surveillance
+testing is a useful addition to a
+robust testing strategy, but when
+testing and resources are scarce,
+it is wasteful and can even be ineffective in protecting the groups
+surveyed, as the White House outbreak demonstrates. The more we
+delay prioritizing and creating the
+infrastructure needed for hypothesis-driven testing (e.g., symptomatic persons, contacts, high-risk
+groups) on a massive scale, the
+more we risk containment failure.
+Other countries have shown
+responsible leadership, prioritization, and coordination. From the
+pandemic’s outset, a distributed
+network of German laboratories
+had the expertise and capacity
+needed to rapidly develop and
+implement PCR tests, facilitated by
+their centralized national health
+care system. They overcame supply shortages through standardized criteria prioritizing symptomatic cases, and with clinical
+cases largely under control by
+May, they responsibly shifted to
+asymptomatic surveillance testing
+of at-risk communities. Similarly,
+molecular biologists throughout
+Africa started developing PCRbased tests for SARS-CoV-2 in
+early February.
+By building distributed capacity and prioritizing resources in
+response to public health demands, the United States, too,
+can transform our trajectory in
+fighting this pandemic — and
+preempting future ones. The essential steps are clear.
+First, we need to support clinical laboratories to build LDTs
+and navigate regulations with
+ease and speed. Continued test
+shortages prove that funneling
+resources into a few commercial
+companies alone is not enough.
+To quickly respond to emergent
+viruses or new variants of existing viruses, and to provide stopgaps to prevent spread, we must
+empower the FDA, the Centers
+for Disease Control and Prevention (CDC), and the public health
+community to support — by
+means of clear regulatory processes and training — broader,
+distributed capacity to build and
+administer tests in clinical labs.
+The FDA can simplify regulatory processes for LDTs and provide resources for navigating a
+rigorous but nononerous authorization process. Rather than remove oversight altogether, the
+agency should set and maintain
+common standards and straightforward expectations for regulatory processing of tests, with
+quality and efficiency being paramount. Particularly during an
+outbreak, they should provide
+greater resources to support applicants and give regular updates
+on the timeline for approval.
+The CDC, public health departments, and others can provide training courses and materials for creating clinical grade
+LDTs that meet FDA standards,
+for troubleshooting, and for completing clinical validation. We have
+seen firsthand that such LDT
+creation is possible, through our
+hospital network in West and
+Central Africa (https://acegid​.­org)
+and at Massachusetts General
+Hospital, where we established a
+real-time reverse-transcriptase–
+PCR LDT for SARS-CoV-2 within
+a week after the FDA began allowing it.
+Second, research and development resources must be provided.
+Grants, loans, and incentives
+should be broadly administered
+under Title III of the DPA to enable clinical laboratories to acquire the equipment, consumables, and reagents needed for
+building, validating, and conducting tests. The allocation authority of the DPA should be used to
+encourage fair and need-based
+allocation of scarce testing supplies to laboratories in regions of
+high transmission risk. We believe that the United States also
+requires either a new national institute or far greater support for
+existing ones to provide a range of
+resources to all test developers,
+including engineered and patient
+clinical samples and reagents,
+within short time frames. As a
+federal entity, such an institute
+could enable a centralized allocation strategy for diagnostic development resources at reasonable
+cost, under the DPA.
+Third, we need to prioritize
+test distribution. Successful containment of Covid-19 requires a
+prioritization strategy for facilitating equitable access to tests
+according to need. In communities where the demand remains
+unmet, decision makers will have
+to redirect existing clinical grade
+testing to symptomatic people,
+contacts, and high-prevalence
+areas before spending resources
+on surveillance testing of lowrisk persons. To enable a full
+economic reopening of the United
+States, non–clinical grade tools
+could be dedicated to surveillance and to identifying potential
+asymptomatic cases
+for clinical investigation. Simple PCR
+available at NEJM.org
+tests administered
+outside CLIA settings, and other
+easy-to-use surveillance tools such
+as loop-mediated isothermal amplification — a highly specific,
+cost-effective, rapid, and scalable
+technology — are currently being
+explored as potential alternatives.
+
+As we fight Covid-19 and prepare for new threats, including a
+potentially pandemic-level strain
+of influenza, we need to pave a
+better path. We believe that our
+leaders need to motivate and support a laboratory-based testing
+model that enables broad and
+distributed production capacity.
+We must build a national system
+that operates according to rapid
+regulatory processes with clear,
+rigorous standards, facilitates innovation and training, provides resources for ongoing test development, and prioritizes supplies on
+the basis of need. Before Covid-19,
+virologists predicted the emergence of a novel “Disease X.” It’s
+here now, and we still have not
+contained it. When “Disease Y”
+arrives, will we have learned?
+
+
