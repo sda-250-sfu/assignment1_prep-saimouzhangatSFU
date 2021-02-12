@@ -1,0 +1,503 @@
+
+Accuracy of Age-Based Formula to Predict the Size and Depth of Cuffed Oral
+Preformed Endotracheal Tubes in Children Undergoing Tonsillectomy
+
+
+Introduction
+
+Patients and Methods
+
+The selection of an appropriately sized endotracheal tube
+(ETT) is of critical importance, especially in pediatric patients.
+There are several methods to predict the adequate size of the
+ETT. One of the most commonly used is the Motoyama formula (MY), which calculates the ETT’s internal diameter in
+millimeters by using the age in years/4 þ 3.5 mm. Likewise,
+the insertion depth of ETT is usually predicted by the age-based
+formula for depth (AFD), age in years/2 þ 12 cm.2 Other than
+age, the nutritional status of each child may also play a role in
+determining the ETT size.
+For tonsillectomy, cuffed oral preformed ETT, known as the
+Ring-Adair-Elwyn (RAE) tube, is widely used. Its bend should
+avoid the risk of kinking and ease of fixation. However, the
+fixed bend-to-tip distance (BT), which is specific for each ETT
+size, has the risk of malposition,especially during the application of the Rose position or retractors. Bend-to-tip distance is
+crucial in choosing ETT size in each patient.
+
+After Siriraj Institutional Review Boards’ approval (COA no.
+062/2020), data were retrospectively collected from the electronic medical records of patients aged 2 to 8 years who underwent tonsillectomy (with or without adenoidectomy) at Siriraj
+Hospital from 2017 to 2019.
+The regular influx of pediatric tonsillectomy in our hospital
+includes patients undergoing surgery under general anesthesia,
+with either intravenous or inhalation induction, with an oral
+tracheal approach for ventilation using a cuffed Mallinckrodt
+RAE tube (Covidien LC). The RAE tube was preformed
+(Figure 1) with the BT related to the respective size. Endotracheal tube was placed with the cuff beneath the vocal cord.
+Cuff inflation pressure was not routinely measured but was
+observed by tracheal seal (no audible leak) at a peak airway
+pressure of 20 cm H2O. Air leak at a ventilating pressure of less
+than 20 cm H2O aroused the need to increase cuff inflation or
+change ETT to a larger size. Equal bilateral breath sounds were
+auscultated promptly after intubation and the patient placed in
+the Rose position. The insertion depth was adjusted to ensure a
+good ETT position and was recorded at the upper incisors and
+the bend was fixed at the lower lips. Sevoflurane and muscle
+relaxants were used to maintain anesthesia. Intravenous dexamethasone was administered at the anesthesiologist’s discretion. At the end of the surgery, reversal of muscle relaxants was
+performed. Patients were routinely observed in the postanesthetic care unit before discharge to the ward where they
+were staying overnight. They were then examined by anesthesiologist the next day to monitor possible complications.
+The exclusion criteria were previous or current tracheostomy, tracheal stenosis, anticipated difficult intubation, or
+Down syndrome. Extracted data included age, sex, indication
+for surgery, actual ETT size and insertion depth, volume of air
+blown into the cuff, and complications (ie, reintubation and
+number of attempts, abnormal lung sounds, and use of inhaled
+racemic epinephrine or bronchodilators).
+According to the World Health Organization (WHO)
+growth reference criteria for body mass index (BMI) at a specific age,thinness was defined as BMI < 2 SD of the WHO
+Growth Reference median, normal BMI as BMI between
+2 SD and þ1 SD, overweight as BMI between þ1 SD and
+þ2 SD, and obese as BMI > þ2 SD.
+The MY was used to calculate the tube size in millimeters
+and rounded up to the nearest 0.5 mm. Predicting insertion
+depth was calculated using the AFD and BT according to the
+size calculated by MY. These predicting parameters were compared to the patient’s actual ETT as shown in Table 1.
+
+Sample Size Calculation
+Previous studies have shown an accurate tube size calculation
+using MY of 72.5% in noncardiac pediatric patients8 and the
+accuracy of AFD of 67.9%.9 With an acceptable error of 4.5%
+(2-sided, 90% CI), the calculated sample size was 294 patients.
+
+Statistical Analysis
+Frequencies were reported as percentage, range, mean + SD,
+or median (min, max). The accuracy of ETT size and insertion
+depth were documented in percentage with 90% CI.10
+Comparisons between groups were performed using the
+Pearson w2 test, w2 test for trend, Bonferroni method, and independent t test (multiple comparison). All statistical data
+analyses were performed using PASW Statistics version 18
+(SPSS, Inc).
+
+Results
+Three hundred seventy-six patients aged 2 to 8 years who
+underwent tonsillectomy between January 2017 and September
+2019 were initially included. A total of 76 patients were
+excluded (46 did not meet the inclusion criteria, while 30 did
+not have complete data), leaving 300 pediatric patients in the
+study. Demographic data and patient characteristics are shown
+in Table 2.
+We found that the actual ETT size corresponded with
+MY-based prediction in 64.7% (90% CI: 60.0-69.1). A comparison among the nutritional groups is shown in Figure 2. The
+actual size of ETT corresponded with MY in 65.8% (90% CI:
+59.2-71.8) in normal BMI patients and 67.2% (90% CI:
+60.2-73.4) in overweight and obese patients. The cuff had to
+be inflated in 107 patients (35.7%), with the range of air blown
+from 0.2 to 5 mL.
+The prediction accuracy of the MY formula did not differ
+statistically between the BMI-related groups. However, in
+cases where the actual tube size was not correctly predicted
+by MY, smaller ETTs were preferred in normal-weight patients
+and larger ETTs in overweight/obese as compared to
+Motoyama prediction (P < .001). Also, Also, in the MY correctly predicted group (n ¼ 194), 68.0% were male with the
+height of 112.3+10.8 cm, compared to the incorrectly predicted group (n ¼ 106), of which 67.9 % were male with the
+height of 113.0+10.4 cm. So, neither sex (P ¼ .98) nor height
+(P ¼ .62) influenced the accuracy of the MY formula.
+Eight patients (2.67%) had to be reintubated. All were
+finally intubated with the size predicted by MY. Dexamethasone was routinely administered intraoperatively in 148 patients
+(49.3%). No dexamethasone was administered as a rescue drug
+after surgery, although there was a postoperative stridor in
+1 patient; an overweight girl had been intubated with an ETT
+1.0 mm larger than MY.
+The insertion depth was mostly found to be in the range of
+BT and AFD in 85.0% of the patients. In all groups, the
+majority of tubes (51.3%) were placed according to BT, which
+is usually deeper than AFD as shown in Figures 3 and 4 (except
+for ET size 4.0 mm). In a few cases, insertion depth did not
+correspond with BT and AFD, being either shorter or deeper
+than predicted (6.7% and 8.3%, respectively).
+Regarding depth prediction, there was no inadvertent extubation or endobronchial intubation. The tube moved out after
+Rose positioning in one case because of miscalculation.
+
+Discussion
+Our study found that MY could predict the accurate size of
+cuffed oral ETT in 64.7% of the patients. The size of oral
+preformed tubes is associated with a certain BT, which must
+be considered when choosing the tube. This is comparable to
+the study of Hunyady and Jonmarker, demonstrating that in
+noncardiac pediatric patients in accordance with 72.5%
+between MY predicted and actual tube size, the predicted size
+was bigger in 18% and smaller in 8.7%.In contrast to our
+patients, cardiac pediatric patients generally required larger
+tubes, although they had less body weight. Another study in
+normal-weight children aged 1 to 10 years showed a lower
+correspondence rate of MY with the actual ETT size
+(47.4%)11 than in our study. The inconsistent results might
+be due to the different ages of the study participants and the
+unmentioned rounding method of ETT size after calculation.
+In contrast, a recent study proposed a technique using the
+middle finger length to predict ETT size. They found only
+32.2% correct placement using MY. This might be affected
+by the use of both cuffed and noncuffed tubes in their study and
+the different ages.
+Ultrasound is suggested to be better than the formula for
+ETT size prediction,13 tailoring ETT individually to each
+patient, and reflects the ETT outer diameter, which is more
+relevant than the internal diameter, since there are manufacturing differences between the wall thickness and ETT material.
+The size was usually found to be smaller when predicting with
+ultrasound compared to MY. Chest radiography was also
+thought to have a good correlation in tracheal diameter compared to computed tomography but did not reflect the subglottic diameter, the narrowest part of the pediatric larynx.
+The length-based approach has been an alternative for the
+selection of ETT size, either with the respective formula or a
+Broselow tape. It showed adequate accuracy and should be
+considered15,16 especially in an emergency situation when age
+or weight are not assessable.
+There are various methods for classifying the nutritional
+status of children. Despite the debate as to which single growth
+reference is the most appropriate, our study was based on WHO
+growth reference using BMI, which has been recommended in
+the assessment of growth in children and adolescents above
+5 years of age. However, in children aged 0 to 5 years, the
+accuracy of its use remains uncertain.
+Anthropomorphic measurements have shown that obese
+adult patients may have smaller airways due to airway compression from adiposity and cephalic compression of the diaphragm. Fenley et al suggested this correlation for obese
+pediatric patients too. Our data do not support their conclusions, as we did not find obese children having a smaller tube
+size as predicted. About 25% of obese patients require a larger
+ETT than MY. This may be due to the inclusion of 1- to
+20-year-old patients in their sample, as compared to 2 to 8 years
+in our study. In addition, they measured the cross-sectional area
+of the trachea rather than the subglottic diameter, which is the
+narrowest part in children.
+Pek et al suggested that for proper insertion depths, the tip
+should be placed at the vertebral level of T2-T4 vertebral bodies, and AFD was correctly predicted in 67.9% in their study.
+However, we observed that AFD was not appropriate when
+patients were in the Rose position, with the possibility of moving the tube outward up to 0.5 to 1.2 cm.20
+The BT of a preformed tube is a function of its size, making
+adequate selection a crucial matter. However, prediction of the
+preformed tube size following MY does not always correspond
+to BT with the expected depth from AFD; a difference of up to
+1 cm is noticed, especially at patient ages 3, 5, and 7, as shown
+in Table 1. As a consequence, even the best formula does not
+replace a thorough clinical inspection after intubation.
+We did not apply ultrasound, which was reported to visualize ETT tip in more than 80%.21 However, its superiority over
+conventional intubation techniques among children has not yet
+been proven comprehensively.
+This study design varied from other similar trials: (1) We
+did not apply ultrasound, as suggested by Shibasaki et al,
+because the required experience and expertise could not be
+consistently provided. (2) Patients’ necks were extended in the
+Rose position. (3) Our patients stayed overnight so we could
+monitor possible short-term complications. (4) The number of
+patients with thinness was too small for statistical significance.
+(5) Finally, this was a retrospective study, with its specific
+limitations, such as missing data due to either sloppy documentation or lack of standards. As a consequence, we had to assume
+that reintubation attempts, postoperative coughing, or sore
+throat were not always recorded or may have been masked
+by the effect of dexamethasone. There was generally no measurement of airway or ETT cuff pressure. Future prospective
+randomized controlled trials may obtain more comprehensive
+results.
+
+Conclusions
+In most patients, aged 2 to 8 years, undergoing tonsillectomy,
+the size of the cuffed preformed ETT could be predicted by the
+MY. An exception was a small group of thin children, needing
+a slightly smaller tube (0.5 mm). More than 80% of the tube
+insertion depth could be correctly predicted in the range of BT
+and age-based formula.
+
+
+
+Contralateral Transmaxillary Approach for
+Resection of Chondrosarcoma of the
+Petrous Apex: A Case Report
+
+Background
+
+Clinical Presentation
+
+Surgical management of petrous apex lesions is challenging
+due to proximity of critical neurovascular structures, particularly the petrous internal carotid artery (ICA).
+Transcranial approaches are effective and are still required with far lateral
+extension. Complications of open approaches include cranial
+nerve III-IX palsy, jugular foramen syndrome, infarcts, cerebrospinal fluid leak (CSF) leak, hydrocephalus, wound infection, pneumonia, and pulmonary embolism.
+Endoscopic endonasal approaches (EEAs) provide a less
+invasive alternative and obviate the need for durotomy and
+brain retraction which cause stroke, encephalomalacia, and
+seizures. Endoscopic endonasal access to the lateral petrous
+apex is challenging due to anatomic limitations of working
+lateral and inferior to the petrous ICA, leading to worse outcomes and higher rates of recurrence. The endoscopic contralateral transmaxillary (CTM) approach was developed to
+overcome this limitation. In this report, we describe a patient
+with a petrous apex chondrosarcoma treated with the endoscopic CTM approach.
+
+A 31-year-old male presented with diplopia on left lateral gaze.
+On examination, he was found to have an isolated, incomplete
+left abducens palsy. He underwent computed tomography,
+which revealed an erosive left petrous apex lesion. Magnetic
+resonance imaging (MRI) with gadolinium revealed a contrastenhancing left petrous apex lesion with extension to the petroclival fissure and cavernous sinus (Figure 1).
+
+The patient underwent a CTM approach to the left petrous
+apex. The surgical procedure was uncomplicated, with no worsening of his abducens palsy. Postoperative gadoliniumenhanced MRI revealed gross total tumor resection. He had
+expected postoperative right infraorbital nerve hypoesthesia
+and stable diplopia but no oroantral fistula or epistaxis. The
+patient was transferred from the intensive care unit on POD 1
+and discharged on POD 3. The only complications in the postoperative period were cacosmia, postnasal drainage, and Staphylococcus sinusitis which were treated with debridements
+and doxycycline around postoperative day (POD) 21 and POD
+63. Postoperative gadolinium-enhanced MRI revealed gross
+total tumor resection.
+
+Final pathology diagnosed a low-grade chondrosarcoma
+(grade I). Immunohistochemical stains were positive for
+S100 and negative for epithelial markers and Brachyury.
+There were no EWSR1 and NR4A3 gene rearrangements. The
+patient received adjuvant intensity-modulated radiation therapy, 70 Gy in 35 fractions over 51 days. By 9 weeks, he
+reported near-total resolution of diplopia (experienced only
+with extreme lateral gaze). By 12 weeks, he reported return of
+sensation in the distribution of the infraorbital nerve. Posttreatment positron emission tomography was obtained
+approximately 15 weeks following surgery and revealed no
+residual tumor, only enhancement of the nasoseptal flap
+(Figure 2).
+
+Operative Technical Note
+Through a right sublabial incision, a Caldwell-Luc antrostomy
+was performed using a 4.0 coarse diamond drill. An inside-out
+medial maxillectomy was performed using a Kerrison rongeur
+by opening the natural os through the nasal fontanelle. Attention was then turned to the right naris. The posterior two-thirds
+of the inferior turbinate was resected via the CTM approach.
+A standard endonasal transsphenoidal approach to the sella
+with resection of the right middle turbinate was performed in
+binarial fashion. Neuronavigation confirmed the locations of
+the left lateral opticocarotid recess, the paraclival ICAs, and the
+left Vidian canal. The dorsum sella, intercavernous sinuses, and
+the entire left parasellar ICA were exposed. Next, a transclival
+approach was performed. The left Vidian canal was identified
+and the Vidian nerve was followed toward the second genu
+between the paraclival and lacerum segment of the ICA. The
+tumor was encountered during this dissection around the carotid. As the floor of the sphenoid and lower clivus were dissected at the inferior tumor margin, the hypoglossal nerve was
+stimulated. Navigation was used to determine the location of
+the hypoglossal canal and preserve the nerve (see Figure 3, A1
+and A2).
+The tumor removal proceeded with ease in piecemeal fashion using suction and curettage through the CTM window and
+the contralateral naris. The angled endoscope was used both
+through the CTM window and the contralateral naris, with the
+advantage of the latter being to limit collisions between the
+surgeon and the endoscopist (see Figure 2C). The tumor
+tracked toward Dorello’s canal at the level of the sixth cranial
+nerve. A pinhole size durotomy was noted at this site. There
+was no injury to the sixth cranial nerve indicated by
+neuromonitoring during the dissection. Angled endoscopes
+through the CTM approach demonstrated no residual tumor
+in the petrous apex, around the lacerum segment of the carotid,
+or overlying the dura (see Figure 3, B1 and B2). Finally, the
+durotomy and CSF were sealed with Gelfoam and thrombin
+covered by a vascularized nasoseptal mucoperichondrial flap
+positioned in the clival recess. The sublabial incision was
+closed in 2 layers.
+
+Discussion
+Benet et al described the extended EEA to the lower third of
+the clivus as the ‘‘far medial’’ approach. The advent of treating laterally situated lesions began with Jho and Ha with
+exploration of the cavernous sinus. Endoscopic approaches
+to the petrous apex were first described by Kassam et al using
+the traditional binarial approach and subsequent lateral drilling of the petrous apex using angled endoscopes for lateral
+visualization.
+Since then, transmaxillary approaches have been described
+for approaches to the infraorbital fossa, pterygopalatine fossa,
+and the lateral cavernous sinus. The addition of a sublabial
+transmaxillary approach (Caldwell Luc approach) or an anteromedial maxillotomy (Denker procedure) to a uninostril or
+binostril endonasal endoscopic approach has been shown to
+improve surgical freedom.
+
+The CTM approach was recently developed to allow for
+improved lateral access in endoscopic approaches to the petrous apex. Compared to ipsilateral transmaxillary and transpterygoid approaches, the CTM approach increases surgical
+freedom and decreases the angle of attack to the petrous apex,
+thus improving the surgeon’s ability to work inferior, posterior, and lateral to the lacerum segment of the ICA. Recently,
+Snyderman et al described their results in 29 patients treated
+with this approach, including a subset of patients with chondromatous tumors. They report gross total resection in 16 of
+22 lesions. The group experienced 3 postoperative CSF leaks
+among 21 patients with intraoperative CSF leaks, 1 case of
+idiopathic sensorineural hearing loss, and 6 cases of
+hypoesthesia or neuralgia of the maxillary nerve which was
+generally transient. Per this review, the only other reports of
+this approach come from a case series and 2 case reports, with
+3 of the 4 publications coming from the same institution.
+In this article, we describe the use of the CTM approach to
+the petrous apex in a tertiary academic center with minimal
+prior experience in expanded endoscopic approaches to the
+skull base. This report adds to the sparse literature examining
+this complex approach and attests to the reproducibility of prior
+results. As this was the first case at this institution, this patient
+was selected due to ideal tumor characteristics for this
+approach including, small, extradural, and hyperintense T2
+imaging indicating easily resectable tumor. Despite the wellreported advantages of this approach, it should be used judiciously because of the learning curve associated with new
+techniques and complex surgical anatomy.
+
+Conclusion
+While endoscopic treatment of petrous apex tumors remains
+challenging, the CTM approach allows for improved surgical
+freedom and better visualization when working around the petrous carotid artery. The efficacy of this technique is demonstrated by its successful application in a growing skull base
+center. Further investigation of this surgical approach is needed to better define appropriate patient selection and risks/benefits
+of the procedure which has rare indications.
+
+
+
+Costal Cartilage Lateral Crural Strut Graft
+for Correction of External Nasal Valve
+Dysfunction in Primary and Revision
+Rhinoplasty
+
+Introduction
+Nasal valve dysfunction is a major cause of nasal obstruction.
+The nasal valve, which can be divided into internal and external
+components, is the narrowest point of airflow. Boundaries of
+the external nasal valve (ENV) include the caudal nasal septum
+and medial crus of the lower lateral cartilage medially, the
+lateral crus of the lower lateral cartilage and fibrofatty tissue
+of the alar rim laterally, and the nasal sill inferiorly. Static
+nasal obstruction from reduced cross-sectional area and
+dynamic nasal collapse from deficient structural support contribute to external nasal valve dysfunction (EVD), which can
+also affect the patency of the internal nasal valve. Surgical
+treatment aims to correct intrinsic nasal instability and transmural pressure changes related to nasal valve obstruction.
+
+Augmentation of the nasal tip, especially the lateral crus of
+the lower lateral cartilage, during rhinoplasty to achieve functional and aesthetic satisfaction is challenging secondary to the
+variability in pathologic conditions. Injury or alteration can
+drastically affect nasal tip shape, orientation, and resiliency.
+The anterior and middle segments of the alar require definitive
+cartilaginous support while the rim is held in position posteriorly by thick alar skin. The diameter of the nasal cavity is the
+most important variable in determining airflow. As demonstrated by Poiseuille (minor decreases in radius have a large
+effect on flow) and Bernoulli (acceleration of a fluid occurs
+simultaneously with a decrease in pressure or energy), ENV
+patency is the balance of an inspired inward force generated
+by a decrease in intranasal pressure with the strength of supporting cartilaginous and fibrous components. Thus, weakness of
+the lateral crus results in EVD when either negative pressure in
+the nasal vestibule during inspiration causes rim collapse or there
+is a static reduced cross-sectional area of the nasal valve limiting
+the volume of air that can flow through the nasal airway.
+Lateral crural strut grafts offer a rational and versatile solution to a wide array of lateral crural deformities and deficiencies.
+It also allows for the correction of boxy nasal tip, malpositioned
+lateral crura, alar rim retraction, alar rim collapse, and concave
+lateral crura. Gunter and Friedman chosen to place grafts on the
+vestibular side of the lateral crura to provide strong but invisible
+support of the lateral crus. They did not recommend placing the
+graft superficial to the lateral crus because of the risk of a visible
+step-off at the anterior end of the graft and also would not
+obviate the need for vestibular undermining which would still
+be required to avoid suture perforation of the vestibular skin.
+They opted for the use of open rhinoplasty for the facilitation of
+accurate graft positioning and suture placement.
+The costal cartilage LCSG is a highly regarded technique for
+stabilizing the lateral crus, improving EVD via increasing
+cross-sectional area, providing support against dynamic collapse, and affording great versatility for aesthetic improvement
+of the lateral crus. Barham et al previously demonstrated similar satisfactory functional and aesthetic outcomes when comparing patients with EVD undergoing primary and revision
+rhinoplasty via cephalic turn-in and LCSG techniques, respectively. The purpose of this study was to evaluate the effectiveness of the LCSG technique for both primary and revision
+rhinoplasty patients with EVD.
+
+Methods
+All aspects of this study were reviewed and approved by the
+Baton Rouge General Institutional Review Board (IRB000
+05439). A clinical surgical cohort was studied. Patients complaining of nasal obstruction due to dynamic valve collapse
+with inspiration (Figure 1) which is improved with a Cottle
+and modified Cottle maneuvers were clinically diagnosed with
+the EVD and were recruited for undergoing functional reconstructive rhinoplasty. The diagnosis of EVD free of rhinitis
+symptoms or lack of relief of obstruction to intranasal corticosteroid was made clinically by the patients’ clinical history
+along with an endoscopy and/or anterior rhinoscopy that
+demonstrated medially displaced lateral crus with dynamic
+collapse on mild to moderate inspiratory effort.
+
+Patients were divided into 2 groups based on primary versus
+revision functional rhinoplasty. All patients underwent a lateral
+crural underlay strut graft using costal cartilage. The use of
+costal cartilage was preferred by the senior author when septal
+cartilage was absent, deficient or congenitally weak, or in case
+of traumatic etiology for the deformed nose. The available
+volume and characteristics of costal cartilage was optimal for
+a successful rhinoplasty. As with every surgical procedure,
+there are risks of harvesting costal cartilage and these risks
+were minimized due to detailed planning and successful adherence to recommended techniques. All surgical intervention was
+performed by the senior author.
+
+The data were collected prospectively as part of routine care
+for patients undergoing rhinoplasty surgery. All patients provided written informed consent.
+
+Statistical analyses were performed using SPSS v 22 (SPSS
+Statistics for Windows, version 22.0; IBM). Descriptive data
+are presented as percentages and means + SD. Kendall’s t-B
+was used for ordinal values. Chi-square analysis was used for
+relationships of nominal variables. The prevalence of related
+comorbidities and the frequency of previous surgical procedures were also compared across treatment cohorts using Pearson w2 analysis for relationships of nominal variables. Student t
+test (2-tailed) was used for comparisons of parametric data.
+Results were deemed significant with a P value of <.05.
+
+Surgical Intervention
+Open structured rhinoplasty was done for the correction of clinically diagnosed EVD. If the patient was complaining of nasal
+obstruction also due to septal deviation and inferior turbinate
+hypertrophy, these issues have been managed with septoplasty
+and medial flap turbinoplasty under endoscopic guidance.
+Cosmetic alteration was always an additional surgical aim.
+
+All patients, whether primary or revision, underwent surgical intervention in which the lateral crura were augmented or
+replaced with underlay strut grafts using costal cartilage. Costal
+cartilage was either homologous or autologous. For the autologous grafting, approximately 5 cm of costal cartilage was
+harvested from the right fifth to eighth rib, and the perichondrium was removed and used to assist in general cosmetic
+alteration. The harvested cartilage was remodeled and either
+replaced or provided underlay support to the lateral crus. The
+LCSGs were designed, with some patient variability, to be
+1.5-mm thick and 35-mm long with a tapered width (8 mm
+lateral to 3 mm medial). The lateral edge of the strut graft is
+inserted into a pocket formed lateral to the piriform aperture in
+a more caudal orientation, while the medial edge lies under the
+domes for a full bridge of the valve.
+
+Assessment of Surgical Outcome
+Five tools to assess patient-perceived functional benefit, one
+objective measure of the nasal airway (in the post decongested
+state), and a cosmesis score as perceived by the patient were
+used as assessments of the surgical outcomes. These outcomes
+were assessed at baseline and then again at least 12 months
+postoperatively.
+
+Patient-Reported Nasal Function
+Five tools were used to assess patient-perceived benefit. A
+visual analog scale (VAS) asked patients to rate ease of breathing on each side on a scale of 0 mm (or not blocked) to 100 mm
+(totally blocked). A number was then obtained from 0 to 100
+for severity of nasal obstruction on each side. A 5-point Likert
+score was used to assess nasal obstruction from 1 (no problem)
+to 5 (problem as bad as it can be). Additionally, a validated
+Nasal Obstruction Symptom Evaluation (NOSE) Scale, and a
+22-Item Sinonasal Outcome Test (SNOT-22) were completed
+by the patient. A global score of nasal function was assessed
+on a 13-point Likert scale from 6 (terrible) to þ6 (excellent),
+with 0 representing neither good nor bad.
+
+Objective Assessment of Airflow
+One tool was used to assess objective parameters of nasal
+breathing. The test was performed 15 minutes after 0.15 mg
+of oxymetazoline was applied to each nasal cavity topically.
+This was to ensure that the structural component of the nose was
+assessed on the testing day and mucosal factors were minimized.
+This was performed to try to decrease the contribution of vascular mucosal changes before and after surgical intervention.
+Collapsibility of the airway was assessed with a nasal peak
+inspiratory flow (NPIF), which was measured with the patient
+seated using an In-Check Nasal Inspiratory Flowmeter (Clement
+Clarke International) with an attached anesthetic mask. A tight
+seal was established without compressing the external nares, and
+the patient was instructed to take a maximal forced inspiratory
+effort through the nose with the mouth closed. The best recorded
+result of 3 attempts was used, according to previous studies.
+
+Assessment of CosmesisAt baseline and 12months, the global score of nasal cosmesis wasassessed by patients on a 13-point Likert scale from 6 (terrible)to þ6 (excellent), with 0 representing neither good nor bad.
+Statistical AnalysisStatistical analyses were performed using SPSS v 22 (SPSS Statisticsfor Windows, version 22.0; IBM). A 2-tailed paired samplet test was used to analyze presurgical and postsurgical values forVAS scores, NOSE scores, SNOT-22 scores, and NPIF values.All continuous data were assessed as parametric and expressed asmean (SD). Global function, cosmesis, and nasal obstructionscores were ordinal scores and assessed by Kendall’s t-B.
+ResultsTwenty-six patients (10 [38.5%] females), with a mean (SD)age of 40.24 (11) years, range, 25 to 52 years, were assessedpreoperatively and at a minimum 12-month follow-up (median,15 months; range, 12-23 months). Ten patients underwent primaryrhinoplasty with costal cartilage LCSGs for correction ofEVD, and 16 underwent revision rhinoplasty with costal cartilageLCSGs for correction of EVD. Sixteen (62%) procedureswere revision rhinoplasties.
+Baseline Characteristics Between GroupsWhen evaluating the 2 groups at baseline, the primary andrevision groups were similar in age (39.7 vs 40.57 years) andsex (40% female vs 38% female) (Table 1). The VAS (both left
+and right), NOSE, SNOT-22, and NPIF were higher in the
+primary group (Table 1).
+
+Abbreviations: NOSE, Nasal Obstruction SymptomEvaluation; NPIF, nasal peak inspiratory flow; VAS, visualanalog scale; SNOT-22, 22-Item Sinonasal OutcomeTest. Effect of Surgical Intervention for EVD.All patients had significantly improved VAS (both left andright), NOSE, and SNOT-22 scores postoperatively (Table2). The NPIF showed objective improvement in all patientspostoperatively (Table 2).
+Abbreviations: NOSE, Nasal Obstruction SymptomEvaluation; NPIF, nasal peak inspiratory flow; VAS, visualanalog scale; SNOT-22, 22-Item Sinonasal OutcomeTest. Effect of Surgical Intervention Between Groups.When evaluating outcomes between the primary and revisiongroups, statistically significant results, favoring the primarygroup, were found in subjective patient reporting of VAS (bothleft and right), NOSE, and SNOT-22 scores (Table 2). Similarly,statistically significant results, favoring the primarygroup, were found in objective measure of NPIF.
+DiscussionRhinoplasty is a technically challenging surgery, and success isultimately determined by patient satisfaction. Achieving afavorable outcome is difficult secondary to intricate nasal anatomy,patient aesthetic and functional concerns, and patientpsychological state. The lower lateral cartilages play a majorrole in the definition and structural support of nasal tip.Abnormalities to nasal tip components, especially the lateral
+crura, can both change nasal contour and result in EVD. Thecostal cartilage LCSG acts as an underlay batten graft at theexternal nasal valve to support weakened cartilaginous andligamentous attachments, fill regions devoid of cartilage, andaid in structural reorientation. This type of graft is aviable and versatile option in the management of EVD for bothprimary and revision rhinoplasty patients.
+In a prospective study comparing the use of the cephalicturn-in maneuver in primary rhinoplasty patients and the LCSGin revision rhinoplasty patients for correction of EVD, Barhamet al found that nasal patency and functional outcome weremore improved with the LCSG. Our study serves as a sequel.The same LCSG revision rhinoplasty cohort was included, butthe cephalic turn-in maneuver primary rhinoplasty cohort wasreplaced with a new primary rhinoplasty cohort undergoingLCSG for EVD. Functional measurement scores and overallsurgical efficacy of the LCSG in correcting EVD between primaryand revision rhinoplasty patient cohorts were thencompared.
+While all patients had significantly improved VASL, VASR,NOSE, SNOT-22, and NPIF scores, the primary cohort’s preoperativescores were higher and demonstrated a greater differencein score improvement postoperatively in all categories.However, the overall score outcome and surgical efficacy ofthe LCSG between the primary and revision rhinoplastypatients had near equal final score outcomes with the exceptionof VASL and NPIF. The findings in both studies were based on6-month postoperative measurements; this was chosen on theclinical assessment that all corrections were structurally integratedat this time period.
+Surgical success of rhinoplasty is largely dependent onpatient satisfaction. Since this is both a complex and multidimensionalconcept, a combination of subjective and objectivenasal measurements has been implemented to aid inspecialist assessment of success. The VAS is a subjectivemeasurement questionnaire and psychometric response scale,while the NPIF is an objective measurement of nasal patencyand airflow. As noted above, all of the postoperative finaloutcome scores were near equal with the exception of VASLand NPIF; these scores were worse in the revision cohort. Amultitude of variables may have alone or in combination contributedto these differences, but this is difficult to determine.Possible etiologies include handedness of the operating surgeon,significant anatomical differences, dynamic collapse,an already partially improved static obstruction from priorrhinoplasty, and/or the inherent overall difficulty of surgicalcorrection in revision rhinoplasty patients.
+All patients in both studies underwent septoplasty and inferiorturbinate reduction during intraoperative rhinoplasty, whichis grossly supported by literature. In a systematic review usingsurgical methods to correct nasal valve collapse over a 38-yeartime period, Spielmann et al3 demonstrated that many surgeonsperformed septoplasty and nasal valve surgery synonymouslyfor correction of septal deviation or harvesting of cartilage forgrafting. Their review determined that it is difficult to controlfor improvement in airway function gained from septoplasty or
+inferior turbinate reduction alone as both are significantsources for anterior nasal obstruction. Thus, prior septoplastyand inferior turbinate reduction may be the basis for a betterinitial symptom score in our revision rhinoplasty cohort whencompared to the primary rhinoplasty cohort. While septoplastysuccess rates range from 43% to 85%, etiologies for persistentnasal obstruction after septoplasty include undiagnosed nasalvalve narrowing and/or collapse. Overall, this further emphasizesthe importance of nasal valve correction for a successfulfunctional outcome in cases of persistent nasal obstruction followingseptoplasty.
+This study corrects for the inherent allocation bias detailedin the study by Barham et al, as we were able to compare theLCSG in both primary and revision rhinoplasty patients.Expansion to a multicenter trial would further increase thepower and strength of the study results. Finally, the additionof a psychological questionnaire and comparison to outcomescores may aid in correlation and interpretation of subjectiveand objective measurements.
+
+ConclusionStrength of the lateral crus plays a significant role in externalnasal valve functionality and nasal patency. Surgical repairand support of weakened lateral crus is paramount to correctand prevent residual EVD. The costal cartilage LCSG is aneffective technique in improving patient-reported and objectiveoutcomes for both primary and revision rhinoplastypatients with EVD.
+
